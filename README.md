@@ -35,7 +35,7 @@ MONGO_DB_URI = "{your MongoDB connection string}" eg. "mongodb://127.0.0.1:27017
 npm install
 npm run watch
 ```
-### Front
+### Frontend
 - Navigate to the Frontend folder in the project directory and run these commands.
 ```
 cd bezos-empire-state
