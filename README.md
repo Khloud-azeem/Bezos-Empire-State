@@ -24,18 +24,19 @@ Information / Assumptions:
 
 ## Run the app
 - Download this repository "https://github.com/Khloud-azeem/Bezos-Empire-State.git"
+
+### Backend
+- Navigate to the Backend folder in the project directory
 - Add .env file to the project directory with the following code
 ```
 MONGO_DB_URI = "{your MongoDB connection string}" eg. "mongodb://127.0.0.1:27017/nawy"
-
 ```
-### Backend
-- Navigate to the Backend folder in the project directory and run these commands.
+- Run these commands.
 ```
 npm install
 npm run watch
 ```
-### Front
+### Frontend
 - Navigate to the Frontend folder in the project directory and run these commands.
 ```
 cd bezos-empire-state
